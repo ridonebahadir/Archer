@@ -357,6 +357,8 @@ MonoBehaviour:
   - {fileID: 4035348822266362861, guid: 2a0326c270901eb43951538f7ad71780, type: 3}
   enemy:
   - {fileID: 404768981382567215, guid: ccff2439ce68e1048a25d525c74fac9b, type: 3}
+  - {fileID: 1784813522130472194, guid: 6c02dda879b813b418c0e29b4470921e, type: 3}
+  - {fileID: 4864341468865215246, guid: 0dd23d3c96656f149a02e7e775af3c29, type: 3}
   enemyList: []
   piece: 15
   player: {fileID: 1123002947}
@@ -800,14 +802,14 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
