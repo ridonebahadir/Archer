@@ -879,7 +879,7 @@ MonoBehaviour:
   MinimalShootRange: 0
   SpreadFactor: 0
   SpreadFactorDistanceImpact: 0
-  HeightMultiplier: 1
+  HeightMultiplier: 0.6
   ArrowFlightSpeed: 7.5
   ArrowLifeTime: 120
   Target: {fileID: 0}
